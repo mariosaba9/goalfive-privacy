@@ -1,0 +1,13 @@
+{
+  "annunci_attivi": true,
+  "interstitial_prime_libere": 3,
+  "interstitial_ogni": 2,
+  "tentativi_extra_coppa": 1,
+  "raddoppio_monete": true,
+  "creator_attivo": true,
+  "creator_dopo_partite": 8,
+  "evento": "",
+  "altri_giochi": [
+    {"nome": "UNICO", "descr": "La sfida quotidiana dei numeri", "descr_en": "The daily number challenge", "pacchetto": "com.emergent.unicoapp.thylqm"}
+  ]
+}
